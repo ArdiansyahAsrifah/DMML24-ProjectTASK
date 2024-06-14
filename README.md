@@ -13,11 +13,16 @@ Kelompok 1
 
 📦DMML24-ProjectTASK
  - ┣ 📂assets
+ -   ┗ 📜cancer.jpg
  - ┣ 📂datasets
  - ┃ ┗ 📜cancer_risk_data.csv
+ - ┣ 📂models
+ - ┣ ┣ 📜gradient_boosting_model.pkl
+ - ┣ ┗ 📜scaler.pkl
  - ┣ 📂src
- - ┃ ┣ 📜logistic_regression_model.pkl
- - ┃ ┣ 📜scaler.pkl
  - ┃ ┗ 📜train_model.py
+ - ┣ 📂utils
+ - ┃ ┗ 📜evaluatingmodels.py
  - ┣ 📜app.py
  - ┗ 📜README.md
+ - ┗ 📜user_feedback.txt
