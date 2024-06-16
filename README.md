@@ -23,6 +23,19 @@ Kelompok 1
  - ┃ ┗ 📜train_model.py
  - ┣ 📂utils
  - ┃ ┗ 📜evaluatingmodels.py
+ - ┃ ┗ 📜preprocessing.ipynb
  - ┣ 📜app.py
  - ┗ 📜README.md
  - ┗ 📜user_feedback.txt
+
+## Reporting I
+
+![Kanban Board - Cancer Risk Prediction](https://github.com/ArdiansyahAsrifah/DMML24-ProjectTASK/assets/113808797/34db5325-c157-4ba1-a200-c03beff5c9f7)
+
+Notes:
+1. ubah jdi refactor code
+2. efesiensi kan code ( jangan cleaning berkali kali)
+3. visualisasi setiap model untuk melihat akurasi
+4. jelaskan manfaat masing2 proses 
+5. kenapa pilih dataset
+6. ⁠ppt setiap pertemuan, min 5 slide
