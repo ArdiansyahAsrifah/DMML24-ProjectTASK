@@ -8,7 +8,7 @@ from io import BytesIO
 import base64
 
 # Load the model, scaler, and dataset
-model = joblib.load('models/gradient_boosting_model.pkl')
+model = joblib.load('models/random_forest_model.pkl')
 scaler = joblib.load('models/scaler.pkl')
 data = pd.read_csv('datasets/cancer_risk_data.csv')
 
