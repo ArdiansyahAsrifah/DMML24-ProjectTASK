@@ -17,13 +17,15 @@ Kelompok 1
  - ┣ 📂datasets
  - ┃ ┗ 📜cancer_risk_data.csv
  - ┣ 📂models
- - ┣ ┣ 📜gradient_boosting_model.pkl
+ - ┣ ┣ 📜random_forest_model.pkl
  - ┣ ┗ 📜scaler.pkl
  - ┣ 📂src
  - ┃ ┗ 📜train_model.py
  - ┣ 📂utils
+ - ┃ ┗ 📜app.py
+ - ┃ ┗ 📜bmi_calculating.py
  - ┃ ┗ 📜evaluatingmodels.py
- - ┃ ┗ 📜preprocessing.ipynb
+ - ┃ ┗ 📜preprocessing datasets.ipynb
  - ┣ 📜app.py
  - ┗ 📜README.md
  - ┗ 📜user_feedback.txt
