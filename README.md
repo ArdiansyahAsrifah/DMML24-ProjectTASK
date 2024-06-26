@@ -9,6 +9,13 @@ Kelompok 1
 - Izzata Clarissa Salsabila - H071221065
 - Elva Aprili Timang - H071221076
 
+## Reporting PPT & Paper
+
+https://drive.google.com/file/d/1lDuKvElmXpvwDK-Y_mWKDSXJN_gGQvn3/view?usp=sharing
+
+https://drive.google.com/file/d/1zMHYqOseRuTGoacopBtPMAJcHE3YqMSw/view?usp=sharing
+
+
 ## Structure
 
 📦DMML24-ProjectTASK
