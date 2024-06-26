@@ -23,16 +23,20 @@ https://drive.google.com/file/d/1zMHYqOseRuTGoacopBtPMAJcHE3YqMSw/view?usp=shari
  -   ┗ 📜cancer.jpg
  - ┣ 📂datasets
  - ┃ ┗ 📜cancer_risk_data.csv
+ - ┣ 📂final_report
+ - ┃ ┗ 📜Kelompok 1 DMML - Cancer Risk Prediction (Paper Reporting).pdf
+ - ┃ ┗ 📜Pitch Deck Cancer Risk Prediction (PPT).pdf
  - ┣ 📂models
  - ┣ ┣ 📜random_forest_model.pkl
  - ┣ ┗ 📜scaler.pkl
+ - ┣ 📂preprocessing
+ - ┃ ┗ 📜evaluatingmodels.py
+ - ┃ ┗ 📜preprocessing datasets.ipynb
  - ┣ 📂src
  - ┃ ┗ 📜train_model.py
  - ┣ 📂utils
  - ┃ ┗ 📜app.py
  - ┃ ┗ 📜bmi_calculating.py
- - ┃ ┗ 📜evaluatingmodels.py
- - ┃ ┗ 📜preprocessing datasets.ipynb
  - ┣ 📜app.py
  - ┗ 📜README.md
  - ┗ 📜user_feedback.txt
