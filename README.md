@@ -71,6 +71,11 @@ Notes:
 
 ![image](https://github.com/ArdiansyahAsrifah/DMML24-ProjectTASK/assets/113808797/e9dece59-73a2-48e2-89bf-722f3ee0e616)
 
+![image](https://github.com/ArdiansyahAsrifah/DMML24-ProjectTASK/assets/113808797/97ccc814-9257-4cc6-bebc-98b20ec0ef5a)
+
+![image](https://github.com/ArdiansyahAsrifah/DMML24-ProjectTASK/assets/113808797/eb722f74-5c25-4a44-ab88-5a6f89b1d426)
+
+
 
 
 
